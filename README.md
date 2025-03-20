@@ -1,4 +1,6 @@
-# 🐋 Desafio Full Cycle - Docker Node
+# Desafio Full Cycle - Docker Node
+
+OBS: está com algumas versões diferentes e com system marcado porque estava dando erro na minha máquina
 
 1. Crie uma netowk para que os containers possam se comunicar:
 
